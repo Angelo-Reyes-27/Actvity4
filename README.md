@@ -1,3 +1,3 @@
 ## Collaborators  
--Reyes, Angelo R.
--Villena, Niel D.
+- Reyes, Angelo, R.
+- Villena, Niel, D.
